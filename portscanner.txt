@@ -1,0 +1,7 @@
+Scanning IP: 45.33.32.156
+
+Port 53: open
+Port 22: open
+Port 80: open
+Port 9929: open
+Port 31337: open
